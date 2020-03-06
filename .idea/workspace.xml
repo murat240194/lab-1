@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a29d65b0-3257-492f-845e-e6972134167c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MapReduseProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YFLMZxuBR1ihqpdRO27XtHrRoX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="mapreduseproject" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab_3/SparkProjectScala" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Myrat\Desktop\4curs\THOBOD\lab-1" />
+      <recent name="C:\Users\Myrat\Desktop\4curs\THOBOD\lab-1\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RequestCounterTest">
+    <configuration name="Program" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="lab-1" />
+      <option name="PROGRAM_PARAMETERS" value="000000 00000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReduceRequestTest.reduce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReduceRequestTest" />
+      <option name="METHOD_NAME" value="reduce" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RequestCounterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestCounterTest.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RequestCounterTest" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RequestCounterTest" />
+        <item itemvalue="JUnit.RequestCounterTest.run" />
+        <item itemvalue="JUnit.ReduceRequestTest.reduce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a29d65b0-3257-492f-845e-e6972134167c" name="Default Changelist" comment="" />
+      <created>1582533348135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582533348135</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="68" key="#All_in_lab-1" timestamp="1583386927638">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="68" key="#All_in_lab-1/0.0.1536.864@0.0.1536.864" timestamp="1583386927638" />
+    <state x="359" y="91" key="#Inspections" timestamp="1583363985066">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="359" y="91" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1583363985066" />
+    <state x="0" y="91" width="814" height="773" key="#Intentions" timestamp="1583387180947">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="91" width="814" height="773" key="#Intentions/0.0.1536.864@0.0.1536.864" timestamp="1583387180947" />
+    <state x="253" y="91" key="#Program" timestamp="1583359784828">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="253" y="91" key="#Program/0.0.1536.864@0.0.1536.864" timestamp="1583359784828" />
+    <state x="365" y="83" key="#RequestCounterTest.run" timestamp="1583399898903">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="365" y="83" key="#RequestCounterTest.run/0.0.1536.864@0.0.1536.864" timestamp="1583399898903" />
+    <state x="0" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583367339369">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583367339369" />
+    <state x="358" y="89" width="578" height="589" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583359641128">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="358" y="89" width="578" height="589" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" timestamp="1583359641128" />
+    <state x="279" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1583173056932">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="279" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1583173056932" />
+    <state x="133" y="221" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583386924383">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="133" y="221" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1583386924383" />
+    <state x="84" y="163" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583185897789">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="84" y="163" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1583185897789" />
+    <state x="271" y="182" key="EnvironmentVariablesDialog" timestamp="1583359742510">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="271" y="182" key="EnvironmentVariablesDialog/0.0.1536.864@0.0.1536.864" timestamp="1583359742510" />
+    <state x="254" y="187" key="FileChooserDialogImpl" timestamp="1583425359292">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="254" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583425359292" />
+    <state width="1219" height="219" key="GridCell.Tab.0.bottom" timestamp="1583391225870">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1219" height="219" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583391225870" />
+    <state width="1219" height="219" key="GridCell.Tab.0.center" timestamp="1583391225870">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1219" height="219" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583391225870" />
+    <state width="1219" height="219" key="GridCell.Tab.0.left" timestamp="1583391225870">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1219" height="219" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583391225870" />
+    <state width="1219" height="219" key="GridCell.Tab.0.right" timestamp="1583391225870">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1219" height="219" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583391225870" />
+    <state width="1081" height="274" key="GridCell.Tab.1.bottom" timestamp="1583360250134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1081" height="274" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583360250134" />
+    <state width="1081" height="274" key="GridCell.Tab.1.center" timestamp="1583360250133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1081" height="274" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1583360250133" />
+    <state width="1081" height="274" key="GridCell.Tab.1.left" timestamp="1583360250133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1081" height="274" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1583360250133" />
+    <state width="1081" height="274" key="GridCell.Tab.1.right" timestamp="1583360250134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1081" height="274" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1583360250134" />
+    <state x="4" y="87" key="Maven.ArtifactSearchDialog" timestamp="1583387245998">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="4" y="87" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1583387245998" />
+    <state x="661" y="111" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583389194046">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="661" y="111" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1583389194046" />
+    <state x="119" y="200" key="run.anything.popup" timestamp="1583170676371">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="119" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1583170676371" />
+  </component>
+</project>
